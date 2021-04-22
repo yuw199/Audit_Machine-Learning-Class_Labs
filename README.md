@@ -1,4 +1,4 @@
-# Audit_UC_Berkeley_IEOR-142
+# Audit_UC_Berkeley_Machine Learning Class
 IEOR 142 -  Introduction to Machine Learning and Data Analytics
 
 🙇‍I would like to share the four intersting labs that I have done using the machine learning techniques. 
