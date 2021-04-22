@@ -1,4 +1,4 @@
-# Audit_UC_Berkeley_Machine Learning Class
+# Machine Learning Class_Labs
 
 🙇‍There are 4 intersting labs that I have done using the machine learning techniques. 
 
