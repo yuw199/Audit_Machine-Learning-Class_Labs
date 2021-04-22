@@ -10,7 +10,7 @@ I have had a chance to audit Berkeley IEOR 142. This course introduces me to key
 •	Data cleaning and manipulation
 •	Data visualization
 
-
+ 
 ✅The models that I have learned and built:  
 •	Linear regression
 •	Logistic regression
