@@ -5,8 +5,8 @@
 I learned key techniques in machine learning and data analytics through a diverse set of examples using real datasets from domains such as e-commerce, healthcare, social media, sports, the Internet, and more. I have gained experience understanding and applying techniques to the real world data sights and offer insights to the business decision behind the data. 
 
 ✅The techniques that I have learned
-•	Text mining
-•	Data cleaning and manipulation
+- •	Text mining
+- •	Data cleaning and manipulation
 •	Data visualization
 
  
